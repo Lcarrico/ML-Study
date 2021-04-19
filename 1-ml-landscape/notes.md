@@ -29,3 +29,6 @@
     - Instance-Based Learning uses properties of the existing examples or data, and directly compares those to the new set of inputs. It then classifies the new inputs based on the similarities to the already existing examples. 
 - Model-Based Learning
     - Model-Based Learning takes the already existing examples and generates a group of rules that form a model. The input is then sent into the model that then gives the expected output or label for that input data. 
+
+
+[Example for Supervised, Model-Based Learning](first-linear-model.ipynb)
