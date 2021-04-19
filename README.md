@@ -27,3 +27,5 @@ This repository will have notes that may be considered **supplemental** material
 ## Table of Contents
 
 1. [The Machine Learning Landscape](1-ml-landscape/notes.md)
+    - [Types of Machine Learning Systems](1-ml-landscape/notes.md#Types-of-Machine-Learning-Systems)
+    - [Main Challenges of Machine Learning](1-ml-landscape/notes.md#Main-Challenges-of-Machine-Learning)

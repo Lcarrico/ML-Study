@@ -32,3 +32,11 @@
 
 
 [Example for Supervised, Model-Based Learning](first-linear-model.ipynb)
+
+## Main Challenges of Machine Learning
+- Insufficient Quantity of Training Data
+- Nonrepresentitive Training Data
+- Poor-Quality Data
+- Irrelevant Features
+- Overfitting the Training Data
+- Underfitting the Training Data
